@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 1. aaa and others at web
+=======
+1. aaa
+2. bbb
+3. ccc
+>>>>>>> master
