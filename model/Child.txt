@@ -1,0 +1,2 @@
+it is mock for contributor2 
+and he can develop others classes
