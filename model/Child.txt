@@ -1,2 +1,3 @@
-it is mock for contributor2 
-and he can develop others classes
+this file extend Parent
+and him important information
+
